@@ -1,0 +1,8 @@
+name = "Анастасия"
+print(name)
+
+age = "18"
+print("Ого, тебе целых " + age)
+
+name = "Анастасия"
+print(name * 5)
